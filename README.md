@@ -1,8 +1,8 @@
-# CodeLou_FrontEnd
+ # CodeLou_FrontEnd
 
 ## Description
 ```
-A brief description of your project
+I came up with a 24hour/7 days a week auto service business to use as my project. 
 
 ```
 
@@ -12,10 +12,14 @@ A brief description of your project
 ```
 The class(es) I created are:
 
-1. class name ex( .main-info-section )
-.. what class does, ex( adds padding & changes background color of .main-info-section )
+1. class name main-img
+.. what class does, red solid border, radius of 50%, and width of 25%
 
-2.
+2. id name first-line
+..what it does, solid green border, color white, text align is center
+
+3. id name first-p
+..what it does, color to white
 
 ```
 
@@ -25,8 +29,7 @@ The class(es) I created are:
 ```
 The javascript functions I created are:
 
-1. function name ex( animate() )
-.. what function does ex( animate() is used to move the elements in the info div across the screen)
-
+1. I did a click function 
+.. what function does click function is on main-img, that causes flashMessage to slideDown, delay, and slideUp
 ```
 # treehouse
